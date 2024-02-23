@@ -1,5 +1,4 @@
 # Hi 👋, There:
-🔭 I’m currently working at Back-End,
 <br>🌱 I’m currently learning Python/Flask,
 <br>💬 Ask me about anything,
 <br>⚡ Fun fact: I'm research everything.
