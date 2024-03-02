@@ -1,5 +1,5 @@
 # Hi 👋, There:
-<br>🌱 I’m currently learning Python/Flask,
+<br>🌱 I’m currently learning Python,
 <br>💬 Ask me about anything,
 <br>⚡ Fun fact: I'm research everything.
 
